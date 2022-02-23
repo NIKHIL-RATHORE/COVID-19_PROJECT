@@ -7,3 +7,4 @@ In this covid-19 data analysis project using Python and Tableau I have performed
 
 Interactive dashboard
 
+![Screenshot (89)](https://user-images.githubusercontent.com/99716198/155293623-2fc05b4c-9eeb-4fe2-b7a7-5046b229fc3c.png)
